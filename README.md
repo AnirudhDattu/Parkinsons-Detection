@@ -3,15 +3,6 @@
 ## Introduction
 Parkinson's disease (PD) is a progressive neurodegenerative disorder affecting millions worldwide, characterized by symptoms like tremors, rigidity, and impaired motor function. Early detection of PD is crucial for timely intervention and effective management. This project aims to develop a machine learning (ML)-based approach for PD detection using voice recordings and spiral drawings, providing a non-invasive and potentially cost-effective method for early diagnosis.
 
-## Contributors
-- Anirudh Dattu 
-- Akaash Gupta
-- Satya Karthikeya Singidi 
-- Aryan Rongali 
-
-## Mentor
-- Dr. Hirdesh Kumar Pharasi, Professor
-
 ## Abstract
 This project proposes a comprehensive ML-based approach for Parkinson’s disease detection, utilizing two distinct types of data: voice recordings and spiral drawings. The project involves feature extraction from both datasets and training ML models to discriminate between PD and healthy individuals based on these features.
 
